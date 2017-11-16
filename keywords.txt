@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetNeutron   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+displayAcceleration  KEYWORD2
+displayGyroscope  KEYWORD2
+displayMagnetometer  KEYWORD2
+displayPressure  KEYWORD2
+displayAltitude  KEYWORD2
+displayIllumination  KEYWORD2
+displayLoudness  KEYWORD2
+getSwitch  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
